@@ -1,7 +1,7 @@
 Overview
-This project is a Java Swing application that creates a slideshow of the top 5 destinations, showcasing serene yoga retreats, luxury wellness resorts, beautiful nature scenes, meditation spaces, and adventurous hiking trails. It utilizes JFrame, CardLayout, and other Swing components to navigate through images and descriptions of each destination.
+This project represents a significant contribution to the redesign of a travel booking application conducted between November and December 2023. It showcases the application of Agile-Scrum methodologies to adapt to updated project objectives and market trends, focusing on improving the user experience and responsive design of the application.
 
-Features
-Slide Navigation: Users can navigate through the slides using the "Previous" and "Next" buttons.
-Dynamic Content Display: Incorporates both images and textual descriptions for each destination, enhancing the user's experience.
-Customizable: Easily modifiable to feature different destinations or themes.
+Key Contributions
+Agile Redesign: Participated in the agile redesign process to align the travel booking application with the latest project objectives and market trends.
+UI and Functionality Enhancements: Utilized Eclipse and Java to enhance user interface components and overall application functionality, with a strong focus on user experience and responsive design.
+Agile-Scrum Framework: Collaborated within an Agile-Scrum team to ensure quality and timely delivery of application updates through effective teamwork and iterative testing.
